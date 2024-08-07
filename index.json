@@ -1,0 +1,16 @@
+{
+  "teams": [
+    {
+      "id": 1,
+      "teamName": "Barcelona",
+      "rating": [ 7.49, 7.22],
+      "logo": "bar"
+    },
+    {
+      "id": 2,
+      "teamName": "Manchester city",
+      "rating": [7.06, 7.21],
+      "logo": "manc"
+    }
+  ]
+}
