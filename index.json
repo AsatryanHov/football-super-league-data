@@ -1,9 +1,8 @@
 {
-  "teams": [
-    {
+  "teams": [{
       "id": 1,
       "teamName": "Barcelona",
-      "rating": [ 7.49, 7.22],
+      "rating": [7.49, 7.22],
       "flag": "https://i.imgur.com/0zdZ8Of.png"
     },
     {
@@ -12,43 +11,84 @@
       "rating": [7.06, 7.21],
       "flag": "https://i.imgur.com/oAnEh9R.png"
     },
-        {
+    {
       "id": 3,
       "teamName": "Real Madrid",
       "rating": [6.06, 7.21],
       "flag": "https://i.imgur.com/w79nALV.png"
     },
-     {
+    {
       "id": 4,
       "teamName": "Bayern Munich",
       "rating": [6.75, 7.21],
       "flag": "https://i.imgur.com/I1MTrei.png"
     },
-       {
+    {
       "id": 5,
       "teamName": "Liverpool",
       "rating": [6.75, 7.31],
       "flag": "https://i.imgur.com/b6PQO2Z.png"
     },
-           {
+    {
       "id": 6,
       "teamName": "PSG",
       "rating": [6.85, 7.31],
       "flag": "https://i.imgur.com/gtp6KCw.png"
     },
-               {
+    {
       "id": 7,
       "teamName": "Dortmund",
       "rating": [6.85, 7.31],
       "flag": "https://i.imgur.com/6syqKpL.png"
+    },
+    {
+      "id": 8,
+      "teamName": "Chelsea",
+      "rating": [6.85, 7.31],
+      "flag": "https://i.imgur.com/R58DZIn.png"
+    },
+    {
+      "id": 8,
+      "teamName": "Inter",
+      "rating": [6.85, 7.31],
+      "flag": "https://i.imgur.com/p2dfozE.png"
+    },
+    {
+      "id": 9,
+      "teamName": "Bayer Leverkusen",
+      "rating": [6.85, 7.11],
+      "flag": "https://i.imgur.com/DpZneHV.png"
+    },
+    {
+      "id": 9,
+      "teamName": "Manchester united",
+      "rating": [6.95, 7.11],
+      "flag": "https://i.imgur.com/oy9U0Uk.png"
+    },
+    {
+      "id": 10,
+      "teamName": "Atletico Madrid",
+      "rating": [6.95, 7.11],
+      "flag": "https://i.imgur.com/OWGg5sb.png"
+    },
+    {
+      "id": 11,
+      "teamName": "Arsenal",
+      "rating": [6.95, 7.71],
+      "flag": "https://i.imgur.com/FtcNETo.png"
+    },
+    {
+      "id": 12,
+      "teamName": "Milan",
+      "rating": [6.95, 7.81],
+      "flag": "https://i.imgur.com/7iNdrYz.png"
+    },
+    {
+      "id": 13,
+      "teamName": "Juventus",
+      "rating": [6.85, 7.81],
+      "flag": "https://i.imgur.com/uoNYZ4X.png"
     }
 
-    
-
-    
-
-    
-
-    
   ]
 }
