@@ -3,7 +3,8 @@
       "id": 1,
       "teamName": "Barcelona",
       "rating": [7.49, 7.22],
-      "flag": "https://i.imgur.com/0zdZ8Of.png"
+      "flag": "https://i.imgur.com/0zdZ8Of.png",
+    "teamValue" : "888.50"
     },
     {
       "id": 2,
